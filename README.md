@@ -2,5 +2,5 @@
 
 requires node version 16
 
-1. `npm i`
+1. `npm ci`
 2. `npm run main`
